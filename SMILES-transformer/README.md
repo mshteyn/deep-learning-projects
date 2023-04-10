@@ -1,1 +1,1 @@
-Fine tuning the Bidirectional Encoder Representations from Transformers model (BERT) on simplified molecular-input line-entry system (SMILES) entries to predict cancer-related intracellular bioactivity.
+Fine tuning a Transformer to predict cancer-related bioactivity based on natural language-based chemical structure encodings.
